@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mokone-september
-- 👀 I’m interested in GIS
+- 👀 I’m interested in learning and growing
 - 🌱 I’m currently a software engineering graduate from HyperionDev
-- 💞️ I’m looking to collaborate on anything open source and using geospatial technology
+- 💞️ I’m looking to collaborate on open source development
 - 📫 How to reach me is easy, mokoneseptember@gmail.com
 
 <!---
