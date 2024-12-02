@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mokone-september
+- 👋 Hi, I’m Thabiso
 - 👀 I’m interested in learning and growing
 - 🌱 I’m currently a software engineering graduate from HyperionDev
 - 💞️ I’m looking to collaborate on open source development
