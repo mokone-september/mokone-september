@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Thabiso
-- 👀 I’m interested in learning and growing
-- 🌱 I’m currently a software engineering graduate from HyperionDev
-- 💞️ I’m looking to collaborate on open source development
-- 📫 How to reach me is easy, mokoneseptember@gmail.com
+👋 Hi, I’m **Thabiso Kenneth Mokone**  
+👀 I’m passionate about **full-stack development** and crafting interactive, responsive user experiences.  
+🌱 I’m a **Software Engineering graduate** from **HyperionDev** with **2 years of experience** in frontend development and growing backend expertise.  
+💻 I specialize in **React, TypeScript, and TailwindCSS** for frontend, and have experience with **Node.js, Python, and MySQL** for backend development.  
+💞️ I’m eager to collaborate on **open source projects** and contribute to innovative, impactful software solutions across the stack.  
+📫 You can reach me at **mokoneseptember@gmail.com**. 
 
 <!---
 mokone-september/mokone-september is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
