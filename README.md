@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-mokoneseptember%40gmail.com-red?style=flat&logo=gmail)](mailto:mokoneseptember@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thabiso_Mokone-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thabiso-mokone/)
-[![GitHub](https://img.shields.io/badge/GitHub-thabiso--mokone-black?style=flat&logo=github)](https://github.com/mokone-september)
+[![GitHub](https://img.shields.io/badge/GitHub-mokone--september-black?style=flat&logo=github)](https://github.com/mokone-september)
 
 ## 🚀 Technical Profile
 
