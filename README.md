@@ -26,7 +26,7 @@ Results-driven developer with 3+ years of hands-on experience building productio
 
 ## 💼 Professional Journey
 
-### Junior Software Developer @ SovTech (2023-Present)
+### Junior Software Developer @ SovTech (2023-2024)
 - Develop and maintain client-facing web applications
 - Implement REST APIs using Node.js and Python
 - Collaborate on cross-functional development teams
