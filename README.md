@@ -8,7 +8,7 @@
 
 ## 🚀 Technical Profile
 
-Results-driven developer with 3+ years of hands-on experience building production-ready applications. Combines formal training from HyperionDev's intensive bootcamp with professional experience at SovTech to deliver robust full-stack solutions.
+Results-driven developer with 3 years of hands-on experience building production-ready applications. Combines formal training from HyperionDev's intensive bootcamp with professional experience at SovTech to deliver robust full-stack solutions.
 
 ## 💻 Tech Stack
 
