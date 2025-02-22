@@ -78,10 +78,10 @@ Results-driven developer with 3+ years of hands-on experience building productio
 
 ## 📬 Let's Connect!
 - **Email**: [mokoneseptember@gmail.com](mailto:mokoneseptember@gmail.com)
-- **LinkedIn**: [Thabiso Mokone](https://www.linkedin.com/in/thabiso-mokone/)
-- **GitHub**: [@thabiso-mokone](https://github.com/thabiso-mokone)
+- **LinkedIn**: [Thabiso Mokone](https://www.linkedin.com/in/mokone-september/)
+- **GitHub**: [@thabiso-mokone](https://github.com/mokone-september)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thabiso-mokone&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokone-september&show_icons=true&theme=radical)
 
 <!---
 mokone-september/mokone-september is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
