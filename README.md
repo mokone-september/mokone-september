@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thabiso Kenneth Mokone
 
-**Full-Stack Developer | Python & TypeScript Specialist | Cloud Solutions Builder**
+**Junior Sofware Developer | Python & TypeScript Specialist | Cloud Solutions Builder**
 
 [![Email](https://img.shields.io/badge/Email-mokoneseptember%40gmail.com-red?style=flat&logo=gmail)](mailto:mokoneseptember@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thabiso_Mokone-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mokone-september/)
