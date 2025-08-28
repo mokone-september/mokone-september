@@ -82,7 +82,7 @@ Results-driven developer with 3 years of hands-on experience building production
 - **GitHub**: [@thabiso-mokone](https://github.com/mokone-september)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokone-september&show_icons=true&theme=radical)
-
+https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=google-chrome
 <!---
 mokone-september/mokone-september is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
