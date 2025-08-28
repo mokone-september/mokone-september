@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thabiso Kenneth Mokone
 
-**Junior Sofware Developer | Python & TypeScript Specialist | Cloud Solutions Builder**
+**Full-Stack Developer | Python & TypeScript | Building Scalable Cloud-Native Solutions**
 
 [![Email](https://img.shields.io/badge/Email-mokoneseptember%40gmail.com-red?style=flat&logo=gmail)](mailto:mokoneseptember@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thabiso_Mokone-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mokone-september/)
@@ -8,7 +8,13 @@
 
 ## 🚀 Technical Profile
 
-Results-driven developer with 3 years of hands-on experience building production-ready applications. Combines formal training from HyperionDev's intensive bootcamp with professional experience at SovTech to deliver robust full-stack solutions.
+I’m Thabiso Kenneth Mokone, a results-driven developer with 3 years of hands-on experience building production-ready applications.
+
+After completing the HyperionDev Software Engineering Bootcamp, I joined SovTech, where I worked on full-stack solutions that combined frontend precision with backend scalability. My journey has shaped me into a developer who thrives at the intersection of cloud-native systems, clean architecture, and performance optimization.
+
+I’m currently deepening my expertise in backend development, cloud deployments, and data-driven financial applications while continuing to grow as a full-stack problem solver.
+
+Beyond code: I value resilience, continuous learning, and building software that solves real-world challenges.
 
 ## 💻 Tech Stack
 
