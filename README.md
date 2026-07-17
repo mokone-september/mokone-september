@@ -1,95 +1,323 @@
 # 👋 Hi, I'm Thabiso Kenneth Mokone
 
-**Full-Stack Developer | Python & TypeScript | Building Scalable Cloud-Native Solutions**
+<p align="center">
+  <strong>Full-Stack Software Developer</strong><br/>
+  React • Next.js • TypeScript • Node.js • Python
+</p>
 
-[![Email](https://img.shields.io/badge/Email-mokoneseptember%40gmail.com-red?style=flat&logo=gmail)](mailto:mokoneseptember@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thabiso_Mokone-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mokone-september/)
-[![GitHub](https://img.shields.io/badge/GitHub-mokone--september-black?style=flat&logo=github)](https://github.com/mokone-september)
+<p align="center">
+  Passionate about building scalable web applications, cloud-native solutions, and AI-powered software.
+</p>
 
-## 🚀 Technical Profile
+<p align="center">
+  <a href="mailto:mokoneseptember@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-I’m Thabiso Kenneth Mokone, a results-driven developer with 3 years of hands-on experience building production-ready applications.
+  <a href="https://www.linkedin.com/in/mokone-september/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-After completing the HyperionDev Software Engineering Bootcamp, I joined SovTech, where I worked on full-stack solutions that combined frontend precision with backend scalability. My journey has shaped me into a developer who thrives at the intersection of cloud-native systems, clean architecture, and performance optimization.
+  <a href="https://github.com/mokone-september">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-I’m currently deepening my expertise in backend development, cloud deployments, and data-driven financial applications while continuing to grow as a full-stack problem solver.
+  <a href="https://portfolio-ten-vert-28.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-Beyond code: I value resilience, continuous learning, and building software that solves real-world challenges.
+  <a href="https://medium.com/@mokoneseptember">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
-## 💻 Tech Stack
+---
 
-### Frontend Expertise
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+# 💻 About Me
 
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+I'm a Full-Stack Software Developer with **3 years of professional experience** building modern web applications using React, TypeScript, Node.js, and Python.
 
-## 💼 Professional Journey
+After completing the HyperionDev Software Engineering Bootcamp, I joined **SovTech**, where I contributed to production software across frontend and backend systems.
 
-### Junior Software Developer @ SovTech (2023-2024)
-- Develop and maintain client-facing web applications
-- Implement REST APIs using Node.js and Python
-- Collaborate on cross-functional development teams
-- Technologies: React, TypeScript, AWS, MySQL
+I enjoy solving real-world problems through clean architecture, scalable APIs, cloud technologies, and modern developer tooling.
 
-### SovTech Graduate Program (2022)
-- 10-month intensive software development immersion
-- Built production-grade applications using modern stacks
-- Gained experience in full SDLC from concept to deployment
+I'm continuously learning and expanding my expertise in:
 
-## 🎓 Education & Training
-**Software Engineering Bootcamp**  
-*HyperionDev (2021-2022)*  
-- Intensive 3-month program focusing on Python, OOP, and ML fundamentals
-- Developed real-world applications including:
-  - Machine learning models
-  - Inventory management systems
-  - Data analysis tools
+- AI Agents
+- Next.js 16
+- Cloud Architecture
+- System Design
+- Rust
+- Go
+- Backend Engineering
 
-**Frontline Hospitality Training**  
-*City and Guilds Diploma (2018-2019)*  
-- Guest service excellence
-- Operational workflow management
-- Client account handling
+---
 
-## 🔧 Technical Skills
-- **Languages**: TypeScript, Python, SQL
-- **Frameworks**: React, Node.js, Express
-- **Styling**: Tailwind, Chakra UI, Material UI
-- **Cloud**: AWS (EC2, S3, Lambda)
-- **Tools**: Git, Postman, VS Code
+# 🚀 Tech Stack
 
-## 🏆 Key Projects
-**Client Portal System**  
-- Led frontend development using React/TypeScript
-- Reduced API response time by 30% through Node.js optimization
-- Implemented JWT authentication for secure access
+## Languages
 
-**Hospitality Management Suite**  
-- Migrated legacy system to Python backend
-- Developed real-time booking features
-- Integrated AWS S3 for document storage
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,sql" />
+</p>
 
-## 📍 Core Strengths
-- Full-stack implementation capabilities
-- Client requirements analysis
-- Performance optimization
-- Legacy system modernization
+---
 
-## 📬 Let's Connect!
-- **Email**: [mokoneseptember@gmail.com](mailto:mokoneseptember@gmail.com)
-- **LinkedIn**: [Thabiso Mokone](https://www.linkedin.com/in/mokone-september/)
-- **GitHub**: [@thabiso-mokone](https://github.com/mokone-september)
+## Frontend
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokone-september&show_icons=true&theme=radical)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+</p>
 
-<!---
-mokone-september/mokone-september is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Material UI
+- Chakra UI
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+- Node.js
+- Express
+- Prisma
+- REST APIs
+- Authentication
+- tRPC
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+- PostgreSQL
+- MySQL
+- SQLite
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel" />
+</p>
+
+- AWS
+- Docker
+- GitHub Actions
+- Vercel
+- CI/CD
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+## Junior Software Developer
+
+**SovTech**
+
+2023 – 2024
+
+- Built modern React and TypeScript applications
+- Developed backend services using Node.js and Python
+- Integrated REST APIs
+- Worked within Agile teams
+- Participated in code reviews
+- Collaborated with designers and product teams
+- Maintained production applications
+
+---
+
+## SovTech Graduate Programme
+
+2022
+
+- Completed a 10-month graduate software engineering programme
+- Built production-ready web applications
+- Worked with React, Node.js, AWS and MySQL
+- Learned full software development lifecycle practices
+
+---
+
+# 🎓 Education
+
+## HyperionDev
+
+**Software Engineering Bootcamp**
+
+2021 – 2022
+
+Focused on:
+
+- Python
+- Object-Oriented Programming
+- Software Engineering
+- Git
+- Databases
+- Machine Learning Fundamentals
+
+---
+
+## City & Guilds
+
+Diploma in Reception Service
+
+2018 – 2019
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Agents Portfolio
+
+A modern portfolio showcasing AI-powered applications and intelligent workflows.
+
+**Tech**
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+---
+
+## 💼 Job Application Tracker
+
+Track job applications with filtering, search, and progress management.
+
+**Tech**
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+---
+
+## 🦀 Rust CLI Task Manager
+
+A command-line task management application built while learning Rust.
+
+**Tech**
+
+- Rust
+
+---
+
+## 🌦 Weather Dashboard
+
+Responsive weather application using live APIs.
+
+**Tech**
+
+- React
+- TypeScript
+- Chakra UI
+
+---
+
+## ⚙️ String Processor API
+
+REST API for advanced string manipulation.
+
+**Tech**
+
+- Node.js
+- Express
+- TypeScript
+
+---
+
+# 🌱 Currently Learning
+
+- AI Agents
+- Next.js 16
+- Rust
+- Go
+- System Design
+- Cloud Architecture
+- Distributed Systems
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mokone-september&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokone-september&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mokone-september&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mokone-september&theme=darkhub&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+mokoneseptember@gmail.com
+
+🌐 **Portfolio**
+
+https://portfolio-ten-vert-28.vercel.app
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/mokone-september/
+
+📝 **Medium**
+
+https://medium.com/@mokoneseptember
+
+💻 **GitHub**
+
+https://github.com/mokone-september
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile! 👋
+
+*"Always learning. Always building."*
+
+</p>
 You can click the Preview link to take a look at your changes.
 --->
