@@ -274,20 +274,22 @@ A REST API for advanced string manipulation and text-processing operations.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mokone-september&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Thabiso's GitHub statistics"
-  />
+  <a href="https://github.com/mokone-september">
+    <img
+      src="https://img.shields.io/github/followers/mokone-september?style=for-the-badge&logo=github&label=Followers"
+      alt="GitHub followers"
+    />
+  </a>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokone-september&layout=compact&theme=github_dark&hide_border=true"
-    alt="Thabiso's most used programming languages"
-  />
+  <a href="https://github.com/mokone-september?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub repositories"
+    />
+  </a>
 </p>
 
 ---
