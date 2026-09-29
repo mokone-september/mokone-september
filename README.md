@@ -11,23 +11,23 @@
 
 <p align="center">
   <a href="mailto:mokoneseptember@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <a href="https://www.linkedin.com/in/mokone-september/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/mokone-september">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://portfolio-ten-vert-28.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://portfolio-v2-main-sooty.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://medium.com/@mokoneseptember">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -37,14 +37,14 @@
 
 I'm a Full-Stack Software Developer with **3 years of professional experience** building modern web applications using React, TypeScript, Node.js, and Python.
 
-After completing the HyperionDev Software Engineering Bootcamp, I joined **SovTech**, where I contributed to production software across frontend and backend systems.
+After completing the HyperionDev Software Engineering Bootcamp, I joined **Scrums (formerly SovTech)**, where I contributed to production software across frontend and backend systems.
 
 I enjoy solving real-world problems through clean architecture, scalable APIs, cloud technologies, and modern developer tooling.
 
 I'm continuously learning and expanding my expertise in:
 
 - AI Agents
-- Next.js 16
+- Next.js
 - Cloud Architecture
 - System Design
 - Rust
@@ -58,15 +58,22 @@ I'm continuously learning and expanding my expertise in:
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,sql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,sql" alt="Programming languages" />
 </p>
+
+- TypeScript
+- JavaScript
+- Python
+- Go
+- Rust
+- SQL
 
 ---
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" alt="Frontend technologies" />
 </p>
 
 - React
@@ -81,7 +88,7 @@ I'm continuously learning and expanding my expertise in:
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Backend technologies" />
 </p>
 
 - Node.js
@@ -96,7 +103,7 @@ I'm continuously learning and expanding my expertise in:
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database technologies" />
 </p>
 
 - PostgreSQL
@@ -108,7 +115,7 @@ I'm continuously learning and expanding my expertise in:
 ## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel" alt="Cloud and DevOps technologies" />
 </p>
 
 - AWS
@@ -122,8 +129,14 @@ I'm continuously learning and expanding my expertise in:
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Development tools" />
 </p>
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Linux
 
 ---
 
@@ -131,9 +144,9 @@ I'm continuously learning and expanding my expertise in:
 
 ## Junior Software Developer
 
-**SovTech**
+**Scrums (formerly SovTech)**
 
-2023 – 2024
+**2023 – 2024**
 
 - Built modern React and TypeScript applications
 - Developed backend services using Node.js and Python
@@ -145,14 +158,17 @@ I'm continuously learning and expanding my expertise in:
 
 ---
 
-## SovTech Graduate Programme
+## Scrums Graduate Programme
 
-2022
+**Scrums (formerly SovTech)**
+
+**2022**
 
 - Completed a 10-month graduate software engineering programme
 - Built production-ready web applications
-- Worked with React, Node.js, AWS and MySQL
+- Worked with React, Node.js, AWS, and MySQL
 - Learned full software development lifecycle practices
+- Collaborated with software developers and cross-functional teams
 
 ---
 
@@ -162,7 +178,7 @@ I'm continuously learning and expanding my expertise in:
 
 **Software Engineering Bootcamp**
 
-2021 – 2022
+**2021 – 2022**
 
 Focused on:
 
@@ -177,9 +193,9 @@ Focused on:
 
 ## City & Guilds
 
-Diploma in Reception Service
+**Diploma – Frontline Hospitality Training College**
 
-2018 – 2019
+**2018 – 2019**
 
 ---
 
@@ -200,13 +216,15 @@ A modern portfolio showcasing AI-powered applications and intelligent workflows.
 
 ## 💼 Job Application Tracker
 
-Track job applications with filtering, search, and progress management.
+A full-stack application for tracking job applications, managing application progress, and organizing opportunities.
 
 **Tech**
 
 - Next.js
 - TypeScript
 - Tailwind CSS
+- PostgreSQL
+- Strapi
 
 ---
 
@@ -222,7 +240,7 @@ A command-line task management application built while learning Rust.
 
 ## 🌦 Weather Dashboard
 
-Responsive weather application using live APIs.
+A responsive weather application using live weather APIs.
 
 **Tech**
 
@@ -234,7 +252,7 @@ Responsive weather application using live APIs.
 
 ## ⚙️ String Processor API
 
-REST API for advanced string manipulation.
+A REST API for advanced string manipulation and text-processing operations.
 
 **Tech**
 
@@ -247,7 +265,7 @@ REST API for advanced string manipulation.
 # 🌱 Currently Learning
 
 - AI Agents
-- Next.js 16
+- Next.js
 - Rust
 - Go
 - System Design
@@ -259,11 +277,17 @@ REST API for advanced string manipulation.
 # 📈 GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=mokone-september&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Thabiso's GitHub statistics"
+  />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mokone-september&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mokone-september&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokone-september&layout=compact&theme=github_dark&hide_border=true"
+    alt="Thabiso's most used programming languages"
+  />
 </p>
 
 ---
@@ -272,11 +296,11 @@ REST API for advanced string manipulation.
 
 📧 **Email**
 
-mokoneseptember@gmail.com
+[mokoneseptember@gmail.com](mailto:mokoneseptember@gmail.com)
 
 🌐 **Portfolio**
 
-https://portfolio-ten-vert-28.vercel.app
+https://portfolio-v2-main-sooty.vercel.app
 
 💼 **LinkedIn**
 
@@ -299,5 +323,3 @@ https://github.com/mokone-september
 *"Always learning. Always building."*
 
 </p>
-You can click the Preview link to take a look at your changes.
---->
